@@ -9,6 +9,9 @@
   box-sizing: border-box;
   font-family: "Poppins";
 }
+.show{
+  margin-top: 8rem;
+}
 .slider {
   height: 100vh;
 }
@@ -147,6 +150,7 @@ h5{
   align-items: center;
   width: 100%;
   padding: 1rem;
+  margin-top: 10rem;
   transition: transform var(--d) var(--e);
   z-index: 1;
 }

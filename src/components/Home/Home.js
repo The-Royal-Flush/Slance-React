@@ -1,11 +1,14 @@
 import React from 'react'
 import "./Home.css";
+import Slider from "./HomeSlider/Slider"
 
 function Home() {
     return (
         <div>
             
-    <section className="header"></section>
+    <section className="header">
+        <Slider/>
+    </section>
     {/* <section className="slider"></section> */}
     <section className="show">
         <h1 className="title heading">Find band that <span>don't Suck</span></h1>
