@@ -1,3 +1,13 @@
+
+.carousel-item{
+    background: rgba( 255, 255, 255, 0.2 );
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    backdrop-filter: blur( 6px );
+    -webkit-backdrop-filter: blur( 6px );
+    border-radius: 10px;
+    border: 1px solid rgba( 255, 255, 255, 0.18 );
+    z-index: 2;
+}
 .slider_main_img{
     height: 100vh;
 }
@@ -12,24 +22,28 @@
     right: -10%;
     transform: rotate(90deg);
     bottom: auto;
-    top: 50%;
+    top: 60%;
 }
 .carousel-indicators [data-bs-target]{
     height: 16px;
     width: 16px;
     border-radius: 50%;
-    margin-right: .5rem;
+    margin-right: 41px;
 }
 .carousel-caption{
     right: auto;
     bottom: auto;
-    top: 25%;
+    top: 30%;
     width: 25%;
 }
 .carousel-caption h3{
-    font-size: 3rem;
+    font-size: 32px;
+    font-weight: 800;
+    line-height: 48px;
 }
 .carousel-caption p{
-    font-size: 1.5rem;
-    margin-top: 4rem;
+    font-size: 24px;
+    line-height: 36px;
+    margin-top: 16px;
+    font-weight: 500;
 }

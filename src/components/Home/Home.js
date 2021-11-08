@@ -32,7 +32,7 @@ function Home() {
                     </div>
                 </div>
             </div>
-            <div className="plank__card">
+            <div  className="plank__card cardwith_button">
 
                 <div className="section__custom__card">
                     <h1 className="title">
@@ -57,7 +57,7 @@ function Home() {
         <h1 className="heading">
             Subscribe to our newsletter
         </h1>
-        <p style={{fontWeight:300, color: "grey", marginBottom: "8rem"}}>Get Best deals and promotional discounts directly to your email.</p>
+        <p className="newsletter_para">Get Best deals and promotional discounts directly to your email.</p>
         <form action="#">
             <div className="form__group">
                 <input type="text" className="letter__form__input" placeholder="Enter your email"/>
