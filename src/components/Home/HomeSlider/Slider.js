@@ -14,8 +14,8 @@ function Slider() {
       alt="First slide"
     />
     <Carousel.Caption>
-      <h3>First slide label</h3>
-      <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
+      <h3>Everything has a story.</h3>
+      <p>Explore one of the best curation of shoe collections.</p>
     </Carousel.Caption>
   </Carousel.Item>
   <Carousel.Item>
