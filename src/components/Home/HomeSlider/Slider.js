@@ -10,7 +10,7 @@ function Slider() {
   <Carousel.Item>
     <img
       className="d-block w-100 slider_main_img"
-      src="https://wallpaperaccess.com/full/427924.jpg"
+      src="https://raw.githubusercontent.com/The-Royal-Flush/Slance/c091ee8bc248e1064988b9ba3639cc642b7473e5/img/Image2.jpeg"
       alt="First slide"
     />
     <Carousel.Caption>
@@ -21,7 +21,7 @@ function Slider() {
   <Carousel.Item>
     <img
       className="d-block w-100 slider_main_img"
-      src="https://wallpaperaccess.com/full/427924.jpg"
+      src="https://raw.githubusercontent.com/The-Royal-Flush/Slance/main/img/Image4.jpeg"
       alt="Second slide"
     />
 
@@ -33,7 +33,7 @@ function Slider() {
   <Carousel.Item>
     <img
       className="d-block w-100 slider_main_img"
-      src="https://wallpaperaccess.com/full/427924.jpg"
+      src="https://raw.githubusercontent.com/The-Royal-Flush/Slance/main/img/Image5.jpeg"
       alt="Third slide"
     />
 
